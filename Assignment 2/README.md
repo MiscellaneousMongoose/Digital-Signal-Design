@@ -8,4 +8,6 @@
 
 ## Commands Used to Run VDHL Files:
 ![code starting counter](https://user-images.githubusercontent.com/70534986/153723353-a6c9ab56-72bf-4a45-89c1-54da3d94f2f0.png)
-## Citation:
+## Citations:
+F. Cayci, “VHDL-digital-design/counter.vhd ,” GitHub, 06-Oct-2019. [Online]. Available: https://github.com/fcayci/vhdl-digital-design/blob/master/rtl/counter.vhd. [Accessed: 02/10/2022].
+F. Cayci, “VHDL-digital-design/tb_counter.vhd,” GitHub, 06-Oct-2019. [Online]. Available: https://github.com/fcayci/vhdl-digital-design/blob/master/tb/tb_counter.vhd. [Accessed: 10-Feb-2022].
