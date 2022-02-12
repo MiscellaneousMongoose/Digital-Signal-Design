@@ -1,7 +1,7 @@
 # Counter
 ## VHDL Files Used:
-### Design:https://github.com/MiscellaneousMongoose/Digital-Signal-Design/blob/main/Assignment%202/counter.vhd
-### Test Bench:https://github.com/MiscellaneousMongoose/Digital-Signal-Design/blob/main/Assignment%202/tb_counter.vhd
+### Design:    https://github.com/MiscellaneousMongoose/Digital-Signal-Design/blob/main/Assignment%202/counter.vhd
+### Test Bench:    https://github.com/MiscellaneousMongoose/Digital-Signal-Design/blob/main/Assignment%202/tb_counter.vhd
 
 ## GTKWave of Test Bench:
 ![counter gtwave](https://user-images.githubusercontent.com/70534986/153723047-b1d5a438-fa7f-4d5a-83e8-125ebf038c42.png)
