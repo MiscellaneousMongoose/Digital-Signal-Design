@@ -1,6 +1,7 @@
 # Counter
 ## VHDL Files Used:
 ### Design:
+https://github.com/MiscellaneousMongoose/Digital-Signal-Design/blob/main/Assignment%202/counter.vhd
 ### Test Bench:
 
 ## GTKWave of Test Bench:
