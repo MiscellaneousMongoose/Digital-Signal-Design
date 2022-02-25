@@ -2,7 +2,7 @@
 
 ### Project 1: LED Decoder
 https://user-images.githubusercontent.com/70534986/155772373-0c312565-c585-46ba-975b-b27812cd0098.mov
-
+For controll of the value displayed the right four switches are changed while the right three switches controll which display is illuminated
 
 
 ### Project 2: Single Digit Hexadecimal Counter
