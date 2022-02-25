@@ -6,6 +6,9 @@ https://user-images.githubusercontent.com/70534986/155772373-0c312565-c585-46ba-
 For controll of the value displayed the right four switches are changed while the left three switches controll which display is illuminated.
 
 
+
+
+
 ### Project 2: Single Digit Hexadecimal Counter
 <img width="484" alt="image" src="https://user-images.githubusercontent.com/70534986/155772778-2c8a549b-7fad-42dc-914d-3477cd82081e.png">
 
