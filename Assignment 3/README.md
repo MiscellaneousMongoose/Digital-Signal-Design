@@ -14,4 +14,4 @@ For controll of the value displayed the right four switches are changed while th
 
 https://user-images.githubusercontent.com/70534986/155772340-8c44b16a-ce27-4429-9d2d-547a4240cf72.mov
 
-The display counts from 0 to 15 in hexadecimal with out the requirement of user input.
+The display counts from 0 to 15 in hexadecimal using one display without the requirement of user input.
