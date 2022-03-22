@@ -6,6 +6,10 @@ https://user-images.githubusercontent.com/70534986/159532882-27e41cf6-4d2e-409c-
 
 
 
+https://user-images.githubusercontent.com/70534986/159535440-1887b5b3-e867-40fe-a9e4-147ba69593e7.mp4
+
+
+
 
 ## Vivado Lab 6
 
