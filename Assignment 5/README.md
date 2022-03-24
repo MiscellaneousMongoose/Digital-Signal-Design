@@ -21,6 +21,6 @@ https://user-images.githubusercontent.com/70534986/159536018-94369241-ecc9-442c-
 
 
 https://user-images.githubusercontent.com/70534986/159995150-f690e352-da09-40cc-ad1a-3b7fbdc9d7fc.mp4
-#### Above is a modified pong game in which the number of times the ball is hit by the player is counted and with each additional hit the bat decreases in size
+#### Above is a modified pong game in which the number of times the ball is hit by the player is counted and with each additional hit the bat decreases in size, the player above did not make it very far into the game but if he did the decrease in the size of the bat becomes very clear.
 
 
