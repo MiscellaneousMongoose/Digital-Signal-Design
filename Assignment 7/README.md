@@ -10,5 +10,9 @@ https://user-images.githubusercontent.com/70534986/160700151-bd6840fa-290e-4453-
 This Nexys-A7 has been programmed to 
 
 ### Project 2: Modified Hex Calculator
+https://user-images.githubusercontent.com/70534986/160701500-b0f2b6ea-c4bd-46de-802e-58a23924eef6.mp4
+
+
+
 
 
