@@ -1,4 +1,4 @@
-## Vivado Lab 1
+## Vivado Assignment 3 Lab 1
 
 ### Project 1: LED Decoder
 https://user-images.githubusercontent.com/70534986/155772373-0c312565-c585-46ba-975b-b27812cd0098.mov
