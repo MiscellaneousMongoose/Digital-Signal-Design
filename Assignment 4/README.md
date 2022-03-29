@@ -1,4 +1,4 @@
-## Vivado 4 Lab 2
+## Vivado Assignment 4 Lab 2
 
 ### Project 1: Four Digit Hex Counter Booted From Memory
 https://user-images.githubusercontent.com/70534986/157737516-f2bb290e-7c18-4ddf-9e5b-fe19c34afc2d.mov
