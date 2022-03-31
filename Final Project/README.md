@@ -4,7 +4,7 @@
 1. [Finite Impulse Response Filter](https://www.fpga4student.com/2017/01/a-low-pass-fir-filter-in-vhdl.html)
 
 
-2. [Prof.K Lu Pong Lab GitHub](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-6)
+2. [Prof.K Lu   Pong Lab GitHub](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-6)
 
 The adc_if module converts the serial data from both channels of the ADC into 12-bit parallel format.
 
@@ -13,3 +13,7 @@ The data consists of 4 leading zeros followed by the 12-bit converted value.
 These 16 bits are loaded into a 12-bit shift register from the least significant end.
 The top 4 zeros fall off the most significant end of the shift register leaving the 12-bit data in place after 16 clock cycles.
 When CS goes high, this data is synchronously loaded into the two 12-bit parallel outputs of the module.
+
+
+
+3. [Prof.K Lu   Siren Lab GitHub](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-5)
