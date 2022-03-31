@@ -2,3 +2,6 @@
 
 
 [Finite Impulse Response Filter](https://www.fpga4student.com/2017/01/a-low-pass-fir-filter-in-vhdl.html)
+
+
+[Prof.K Lu Pong Lab GitHub](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-6)
