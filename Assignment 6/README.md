@@ -13,4 +13,4 @@ https://user-images.githubusercontent.com/70534986/161108898-60ecba3d-ac0c-454a-
 
 
 
-Like the previous project this Nexys-A7 can provide calculations in hexadecimal but with the additional ability of subtraction.
+Like the previous project this Nexys-A7 can provide calculations in hexadecimal but with the additional ability of subtraction usin the BTND button.
