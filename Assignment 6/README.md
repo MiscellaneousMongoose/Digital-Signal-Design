@@ -9,4 +9,8 @@ This Nexys-A7 has been programmed to do addition in hexadecimal with inputs comi
 ### Project 2: Modified Hex Calculator
 
 
+https://user-images.githubusercontent.com/70534986/161108898-60ecba3d-ac0c-454a-9ce2-4cd1a5935b46.mp4
+
+
+
 Like the previous project this Nexys-A7 can provide calculations in hexadecimal but with the additional ability of subtraction.
