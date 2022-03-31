@@ -5,6 +5,7 @@
 
 
 2. [Prof.K Lu Pong Lab GitHub](https://github.com/kevinwlu/dsd/tree/master/Nexys-A7/Lab-6)
+
 The adc_if module converts the serial data from both channels of the ADC into 12-bit parallel format.
 
 When the CS line of the ADC is taken low, it begins a conversion and serially outputs a 16-bit quantity on the next 16 falling edges of the ADC serial clock.
