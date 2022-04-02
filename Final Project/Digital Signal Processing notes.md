@@ -9,4 +9,4 @@ note: Butterworth Filter 16th order fcs at 135 and 180 meet at height 0.01
 determine how much will result from an increase in filter order and how much we should allow before the game starts to feel off
 4. what cut off frequency should be used for the filter, I found that The voiced speech of a typical adult male will have a fundamental 
 frequency from 85 to 155 Hz, and that of a typical adult female from 165 to 255 Hz so in desmos graphing calculator I used an fc = 155
-5.
+5. Should a modulator be used to square the filter output or something else
