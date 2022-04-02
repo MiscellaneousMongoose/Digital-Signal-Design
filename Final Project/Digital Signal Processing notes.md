@@ -1,4 +1,5 @@
 check powerpoint "week 10 powerpoint" on page 4 for Butterworth Filter
+
 note: Butterworth Filter 16th order fcs at 135 and 180 meet at height 0.01
 ## List of Things to Figure Out
 
