@@ -2,6 +2,8 @@ check powerpoint "week 10 powerpoint" on page 4 for Butterworth Filter
 [Tone Generator](https://www.szynalski.com/tone-generator/)
 [How to multiply in binary for the modulator](https://www.khanacademy.org/math/algebra-home/alg-intro-to-algebra/algebra-alternate-number-bases/v/binary-multiplication)
 
+Google FIR filter VHDL there will be plenty of examples
+
 note: Butterworth Filter 16th order fcs at 135 and 180 meet at height 0.01
 ## List of Things to Figure Out
 
