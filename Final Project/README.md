@@ -1,4 +1,4 @@
-## Pitch Paddle
+## Hex to Decimal calculator
 
 
 1. [Finite Impulse Response Filter](https://www.fpga4student.com/2017/01/a-low-pass-fir-filter-in-vhdl.html)
