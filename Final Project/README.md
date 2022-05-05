@@ -5,10 +5,15 @@ TopModule.vhd
 ### Source Files: 
 
 [TopModule.vhd](./TopModule.vhd)
+
 [VGAPixelDriver.vhd](./VGAPixelDriver.vhd)
+
 [VideoMemory.vhd](./VideoMemory.vhd)
+
 [debounce.vhd](./debounce.vhd)
+
 [leddec16.vhd](./leddec16.vhd)
+
 [ps2_keyboard.vhd](./ps2_keyboard.vhd)
 
 ### Constraint Files: 
