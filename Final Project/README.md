@@ -4,19 +4,20 @@ TopModule.vhd
 
 ### Source Files: 
 
-[TopModule.vhd](./TopModule.vhd)
+### 1. [TopModule.vhd](./TopModule.vhd)
 
-[VGAPixelDriver.vhd](./VGAPixelDriver.vhd)
+### 2. [VGAPixelDriver.vhd](./VGAPixelDriver.vhd)
 
-[VideoMemory.vhd](./VideoMemory.vhd)
+### 3. [VideoMemory.vhd](./VideoMemory.vhd)
 
-[debounce.vhd](./debounce.vhd)
+### 4. [debounce.vhd](./debounce.vhd)
 
-[leddec16.vhd](./leddec16.vhd)
+### 5. [leddec16.vhd](./leddec16.vhd)
 
-[ps2_keyboard.vhd](./ps2_keyboard.vhd)
+### 6. [ps2_keyboard.vhd](./ps2_keyboard.vhd)
+
 
 ### Constraint Files: 
 
-[pBoardMasterNexysA7.xdc](./BoardMasterNexysA7.xdc)
+### 1. [pBoardMasterNexysA7.xdc](./BoardMasterNexysA7.xdc)
 
