@@ -22,9 +22,12 @@ TopModule.vhd
 ### 1. [pBoardMasterNexysA7.xdc](./BoardMasterNexysA7.xdc)
 
 
-### My Favorite Color Setting
+### Here is a sample of the game being played in my favorite color setting:
 
 
 https://user-images.githubusercontent.com/70534986/167667470-bbbe6454-4f57-4a2f-aa4e-d4e80d41dd86.mp4
 
+### Things to take note of version 2.0:
 
+#### 1. The switches will controll the color schemes
+#### 2. Unable to shoot and move the ship left or right at the same time
