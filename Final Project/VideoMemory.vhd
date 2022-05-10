@@ -51,7 +51,7 @@ constant box_height : integer := 20;
 signal box_location_x : integer;
 signal box_location_y : integer;
 signal generated : std_logic := '0';
-constant box_speed : integer:= 10;
+constant box_speed : integer:= 15;    --$$$ edit here for fire speed
 ---------------------------------------------alien
 constant alien_width_x : integer := 54;
 constant alien_width_y : integer := 33;
@@ -1184,19 +1184,19 @@ constant background_1 : bitmap_background1 := ( ("000000000000000000000000000000
 
 
 constant alien_fire : bitmap_alien_fire := ( ("0000111",
-"0001111",
-"0011110",
-"0111100",
-"1111000",
-"1111000",
-"0111100",
-"0011110",
-"0001111",
-"0001111",
-"0011110",
-"0111100",
-"1111000",
-"1110000")); 
+                                              "0001111",
+                                              "0011110",
+                                              "0111100",
+                                              "1111000",
+                                              "1111000",
+                                              "0111100",
+                                              "0011110",
+                                              "0001111",
+                                              "0001111",
+                                              "0011110",
+                                              "0111100",
+                                              "1111000",
+                                              "1110000")); 
 
 constant spaceship_fire : bitmap_spaceship_fire := ( ("001100",
 "011110",
