@@ -41,7 +41,7 @@ signal spaceship_location_y : integer:= 440;
 --signal lowerBound_x : integer := 270;
 --constant upperBound_y : integer := 450;
 --constant lowerBound_y : integer := 440;
-constant ship_speed : integer := 5;
+constant ship_speed : integer := 6;
 signal spaceship_color : std_logic_vector( 11 downto 0 ) := color_2;
 --------------------------------------------spaceship fire
 signal fire_set_visible : std_logic := '0';
@@ -74,7 +74,7 @@ signal alien_fire_pos_y : integer range 0 to 481;
 signal alien_fire_pos_x : integer range 0 to 641;
 constant alien_fire_width : integer := 7;
 constant alien_fire_height : integer := 14;
-constant alien_fire_velocity : integer := 8;
+constant alien_fire_velocity : integer := 10;
 ---------------------------------------------array types
 type bitmap_spaceship is array ( 0 to 66 ) of std_logic_vector( 106 downto 0);
 type alien_properties is array( 0 to 17 ) of std_logic_vector(2 downto 0);
