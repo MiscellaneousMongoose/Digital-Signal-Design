@@ -50,6 +50,7 @@ https://user-images.githubusercontent.com/70534986/167957840-aafd130a-7f9a-4f48-
 #### 5. The images are hardcoded using 1s and 0s.
 #### 6. It seems like there are bits forming the shape of numbers possibly for a score but it was not implemented in the game.
 #### 7. If the player presses enter to start a game and does not fire projectiles or move before losing all lives the game will reset as though the player had just pressed enter. 
+#### 8. We were only able to get the game working with a wired keyboard plugged into the NEXTYS A7 in which the keys used for input were A, D, SPACE, and ENTER.
 
 ### Things changed about the game in 3.0:
 #### 1. The width of the space ship was made smaller because in 2.0 it was too wide of a target making the game unreasonably difficult. The width of the ship was changed from 108 to 54 cutting it in half. The ship image was then cut in half and off center which took some time to shift and adjust just right.
