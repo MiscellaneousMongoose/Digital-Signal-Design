@@ -43,8 +43,10 @@ https://user-images.githubusercontent.com/70534986/167667470-bbbe6454-4f57-4a2f-
 #### 1. The switches will controll the color schemes.
 #### 2. Unable to shoot and move the ship left or right at the same time.
 #### 3. The color of the space ship indicates the number of lives remaining.
-#### 4. The images are hardcoded using 1s and 0s.
-#### 5. It seems like there are bits forming the shape of numbers possibly for a score but it was not implemented in the game.
+#### 4. The color of the alien displays the number of lives it has left.
+#### 5. The images are hardcoded using 1s and 0s.
+#### 6. It seems like there are bits forming the shape of numbers possibly for a score but it was not implemented in the game.
+#### 7. If the player presses enter to start a game and does not fire projectiles or move before losing all lives the game will reset as though the player had just pressed enter. 
 
 ### Things changed about the game in 3.0:
 #### 1. The width of the space ship was made smaller because in 2.0 it was too wide of a target making the game unreasonably difficult. The width of the ship was changed from 108 to 54 cutting it in half. The ship image was then cut in half and off center which took some time to shift and adjust just right.
