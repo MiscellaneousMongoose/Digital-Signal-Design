@@ -24,8 +24,11 @@ TopModule.vhd
 
 ### Here is a sample of the game being played in my favorite color setting:
 
-
 https://user-images.githubusercontent.com/70534986/167667470-bbbe6454-4f57-4a2f-aa4e-d4e80d41dd86.mp4
+
+### Here is what it looks like when the switches controlling color settings are off:
+
+https://user-images.githubusercontent.com/70534986/167957840-aafd130a-7f9a-4f48-8f7b-db3d7a68460e.mov
 
 ### Screen samples:
 
