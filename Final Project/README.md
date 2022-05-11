@@ -31,3 +31,12 @@ https://user-images.githubusercontent.com/70534986/167667470-bbbe6454-4f57-4a2f-
 
 #### 1. The switches will controll the color schemes
 #### 2. Unable to shoot and move the ship left or right at the same time
+#### 3. The color of the space ship indicates the number of lives remaining
+#### 4. The images are hardcoded using 1s and 0s
+#### 5. It seems like there are bits forming the shape of numbers possibly for a score but it was not implemented in the game.
+
+### Things changed about the game in 3.0:
+#### 1. The width of the space ship was made smaller because in 2.0 it was too wide of a target making the game unreasonably difficult. The width of the ship was changed from 108 to 54 cutting it in half. The ship image was then cut in half and off center which took some time to shift and adjust just right.
+#### 2. The speed of the alien fire was increased from 4 to 10 to increase difficulty because if the game is too easy it will not be as enjoyable
+#### 3. The speed of the space ship was increased from 5 to 6 to help with the increased alien fire speed
+#### 4. The speed of the player's fire was increased from a 10 to a 15
