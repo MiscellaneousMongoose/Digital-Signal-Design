@@ -27,6 +27,16 @@ TopModule.vhd
 
 https://user-images.githubusercontent.com/70534986/167667470-bbbe6454-4f57-4a2f-aa4e-d4e80d41dd86.mp4
 
+### Screen samples:
+
+![0CA285B6-FA69-4AD3-AA5A-F95DC278DD0E](https://user-images.githubusercontent.com/70534986/167956667-797a8010-3e97-4820-9a10-25a6ce4fd686.jpg)
+
+![IMG_2167](https://user-images.githubusercontent.com/70534986/167956692-6a9f9bf8-4bc1-48e8-b178-dd29006a1e26.jpg)
+
+![IMG_2166](https://user-images.githubusercontent.com/70534986/167956677-81350662-5cd3-43d1-80cf-e939b32c77e4.jpg)
+
+![IMG_2168](https://user-images.githubusercontent.com/70534986/167956710-839623b3-a978-4757-89cd-5429d8cb44ec.jpg)
+
 ### Things to take note of version 2.0:
 
 #### 1. The switches will controll the color schemes.
