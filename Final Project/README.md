@@ -19,7 +19,7 @@ TopModule.vhd
 
 ### Constraint Files: 
 
-### 1. [pBoardMasterNexysA7.xdc](./BoardMasterNexysA7.xdc)
+### 1. [BoardMasterNexysA7.xdc](./BoardMasterNexysA7.xdc)
 
 
 ### Here is a sample of the game being played in my favorite color setting:
